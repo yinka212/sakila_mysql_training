@@ -1,4 +1,4 @@
-# MYQSL PRACTISE USING SAKILA SCHEMA
+# MYQSL PRACTICE USING SAKILA SCHEMA
 
 ## Table of Content
 - [Overview](#overview)

@@ -84,5 +84,7 @@ JOIN sakila.film f ON i.film_id=f.film_id;
 
 ```
 ### References
-I receive great assistance from youtube and w3resources  
+I receive great assistance from youtube and w3resources 
+
+i just typed this as a addendum to say thank you for checking this out 
   
